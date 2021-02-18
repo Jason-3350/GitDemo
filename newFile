@@ -1,3 +1,7 @@
 print('add a new file and test')
 
 print('add one more message')
+
+
+def m1():
+    pass
